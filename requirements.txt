@@ -1,0 +1,11 @@
+numpy
+pandas
+opencv-python
+matplotlib
+scipy
+
+dlib
+scikit-image
+mediapipe
+
+# pickle (part of the standard library)
